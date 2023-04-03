@@ -3,4 +3,6 @@
     <dimen name="normal_12dp">12dp</dimen>
     <dimen name="normal_36sp">36sp</dimen>
     <dimen name="normal_24sp">24sp</dimen>
+    <dimen name="normal_300dp">300dp</dimen>
+    <dimen name="normal_48sp">48sp</dimen>
 </resources>
